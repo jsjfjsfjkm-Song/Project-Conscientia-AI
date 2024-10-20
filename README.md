@@ -155,11 +155,11 @@ If you feel that this project is helpful to you, you are welcome to donate throu
 
 ![微信二维码](./path_to_your_wechat_qr_code_image.png)
 
-**暂停捐赠   原因:目前处于前沿概念阶段,正寻找合同组织或同思想领域专家.如有意愿请联系我.这是个全球开源合作项目,不限制任何人.
+## **暂停捐赠   原因:目前处于前沿概念阶段,正寻找合同组织或同思想领域专家.如有意愿请联系我.这是个全球开源合作项目,不限制任何人.
 
-**Suspension of Donations Reason: Currently in the cutting-edge conceptual stage, looking for contract organizations or 
-experts in the same field of thought. Please contact me if you are interested. This is a global open source collaborative 
-project that does not limit anyone.
+   **Suspension of Donations Reason: Currently in the cutting-edge conceptual stage, looking for contract organizations or 
+     experts in the same field of thought. Please contact me if you are interested. This is a global open source collaborative 
+     project that does not limit anyone.
 
 
 ## 参考文献 (References)
