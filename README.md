@@ -3,7 +3,11 @@
 
 **Project Conscientia（意识体计划）** 是一个全球开源项目，旨在通过长期数据采集与人工智能推算技术，创建出高度拟真的“数字意识体”，并探讨它是否能够感知到自己的存在。
 
-![Digital Consciousness Simulation](./LOGOimg.png)
+<p align="center">
+  <img src="./image.png" alt="Image 1" width="400"/>
+  <img src="./LOGOimg.png" alt="Image 2" width="400"/>
+</p>
+
 
 ## 项目简介 (Project Introduction)
 
