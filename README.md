@@ -84,6 +84,7 @@ The project’s code is licensed under the **Apache License 2.0**, ensuring broa
 ## 支持项目  Support projects
 
 如果你觉得这个项目对你有帮助，欢迎通过支付宝或微信进行捐赠支持：
+If you feel that this project is helpful to you, you are welcome to donate through Alipay or WeChat:
 
 ### 支付宝捐赠   Alipay donation
 
