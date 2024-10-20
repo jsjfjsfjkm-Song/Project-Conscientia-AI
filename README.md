@@ -81,6 +81,19 @@ The project not only focuses on behavior prediction but also on emotional recons
 
 The project’s code is licensed under the **Apache License 2.0**, ensuring broad usage and protection of contributors' patents. The data is licensed under the **Creative Commons Zero (CC0)** license, allowing for free sharing and use of data.
 
+## 支持项目  Support projects
+
+如果你觉得这个项目对你有帮助，欢迎通过支付宝或微信进行捐赠支持：
+
+### 支付宝捐赠   Alipay donation
+
+![支付宝二维码](./path_to_your_alipay_qr_code_image.png)
+
+### 微信捐赠   WeChat donation
+
+![微信二维码](./path_to_your_wechat_qr_code_image.png)
+
+
 ## 参考文献 (References)
 
 - [GDPR - General Data Protection Regulation](https://gdpr.eu)
