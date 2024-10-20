@@ -73,7 +73,7 @@ The project not only focuses on behavior prediction but also on emotional recons
 2. **Ethics & Privacy Concerns**: Data privacy and security pose significant challenges to this project, requiring the implementation of stricter legal and ethical frameworks.
 3. **Potential Value**: This project could drive interdisciplinary research at the intersection of AI, neuroscience, and philosophy, while providing new tools for mental health, education, and affective computing.
 
-   1. 技术可行性
+ 1. 技术可行性
 这个项目的核心是通过长达两年的用户行为数据、情感数据等进行收集，并使用AI模型进行推演和模拟，从而生成“数字意识体”。目前在技术层面上，以下几个关键点需要考虑：
 
 数据采集：全面收集用户的行为和情感数据在技术上是可行的。现代智能设备（如智能手机、可穿戴设备）能够记录大量与用户互动的行为数据，包括日常对话、运动轨迹、社交行为等。但是，情感数据的采集更为复杂，可能需要通过生物传感器或情感识别技术（如面部表情、语音分析）来捕捉用户的情感状态。这些技术已经有一定的基础，但需要进一步提升精确度和连续性。
